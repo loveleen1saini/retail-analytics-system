@@ -1,5 +1,5 @@
 
-# 📊 Retail SQL Project (MySQL)
+# 📊 Retail Analytics System
 
 This project demonstrates key SQL skills using a simulated retail business database. It includes realistic data and a collection of analytical queries.
 
