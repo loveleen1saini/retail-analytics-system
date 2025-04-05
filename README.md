@@ -1,7 +1,7 @@
 
 # 📊 Retail Analytics System
 
-This project demonstrates key SQL skills using a simulated retail business database. It includes realistic data and a collection of analytical queries.
+This project simulates a retail store's database system and demonstrates core SQL skills, including schema design, data manipulation, analytical queries, and performance optimization using indexing.
 
 ---
 
